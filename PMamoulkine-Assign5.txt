@@ -1,0 +1,49 @@
+1) 100
+
+2) Gene Lewin
+
+3) George Brewer
+
+4) Prepare 100 food packages
+   Take packages to the warehouse
+
+5) food and water
+
+6) bottle of antibiotics
+   bottle of aspirin
+   flashlight
+   pack of bandages
+
+7) Prepare 20 children's packages
+   Prepare 100 water packages
+   Prepare 5,000 packages
+
+8) Joan Simmons
+   Chris Jordan
+
+9) Julie White
+   Gerry Banks
+
+10) Baby formula
+
+11) open|4
+    closed|3
+    ongoing|2
+    pending|1
+
+12) 106|308.0
+
+13) 3
+
+14) can of spam
+    dried fruit
+    tent
+    men's coat
+    women's coat
+    sleeping bag
+
+15) 6|150.0
+    2|151.0
+    4|350.0
+    10|750.0
+    5|1420.0
